@@ -61,4 +61,4 @@ if the program output `1 4` that mean to tranfer from bottle 1 to bottle 4.
 4 2
 ```
 ## why does the program output nothing
-this is causes by the algorithm not finding solution.  
+this is caused by the algorithm not finding solution.  
