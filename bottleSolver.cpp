@@ -224,38 +224,3 @@ int main(){
 	std::cout << "press C to close";
 	while (getchar() != 'C');
 }
-//g++ C:\Users\Jump\Desktop\C++\bottleSolver.cpp -o C:\Users\Jump\Desktop\C++\com\bottleSolver.exe --static
-/*
-7 4
-1 2 1 2
-3 4 4 5
-3 5 1 4
-2 4 5 3
-2 5 1 3
--1
--1
-*/
-/*
-4 4
-1 2 2 2
-1 2 1 1
--1
--1
-*/
-/*
-5 4
-1 1 1 2
-1 3 3 3
-3 2 2 2
--1
--1
-*/
-/*
-15 4
-1 2 3 4
-1 5 6 4
-8 1 9 10
-9 9 11 12
-6 11 8 6
-4 9 
-*/
