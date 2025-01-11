@@ -32,3 +32,33 @@ bottle : 3 value
 bottle : 4 value
 -1
 ```
+
+## what does the output mean  
+
+the part under is show of how program solve the bottle problem , it is not very readable and you can ignore it.  
+```
+2 2 |
+1 1 |
+2 2 1 1 |
+3 3 3 3 |
+---------------------
+1 1 1 1 |
+2 2 |
+2 2 |
+3 3 3 3 |
+---------------------
+1 1 1 1 |
+|
+2 2 2 2 |
+3 3 3 3 |
+---------------------
+```
+this part is solution to the problem , it could be slightly redundant sometimes.  
+if the program output `1 4` that mean to tranfer from bottle 1 to bottle 4.  
+```
+1 4
+2 1
+4 2
+```
+## why does the program output nothing
+this is causes by the algorithm not finding solution.  
