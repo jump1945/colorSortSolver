@@ -17,11 +17,11 @@ enterBottleCount and bottleSize
 4 4
 ```
 2.put int the value of the bottle.  
-  given one number -> one specific color
-  note that -1 mean terminate that bottle input for example if bottle the size of four have
-  `red red blue` it will be `1 1 2 -1`
-  `red` it will be `1 -1`
-  `[empty]` it will be `-1`
+  given one number -> one specific color  
+  note that -1 mean terminate that bottle input for example if bottle the size of four have  
+  `red red blue` it will be `1 1 2 -1`  
+  `red` it will be `1 -1`  
+  `[empty]` it will be `-1`  
 ```
 bottle : 1 value
 1 1 2 2
