@@ -10,13 +10,13 @@ and use recursive backtracking algorithm to solve it.
 
 ## how to do the input  
 
-1.put in the `bottle count` and `bottle size`.  
+1.put in the `bottle count` and `bottle size` in the followinf order.  
 
 ```
 enterBottleCount and bottleSize
 4 4
 ```
-2.put int the value of the bottle.  
+2.put in the value of the bottle.  
   given one number -> one specific color  
   note that -1 mean terminate that bottle input for example if bottle the size of four have  
   `red red blue` it will be `1 1 2 -1`  
