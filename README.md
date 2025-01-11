@@ -10,7 +10,7 @@ and use recursive backtracking algorithm to solve it.
 
 ## how to do the input  
 
-1.put in the `bottle count` and `bottle size` in the followinf order.  
+1.put in the `bottle count` and `bottle size` in the following order.  
 
 ```
 enterBottleCount and bottleSize
